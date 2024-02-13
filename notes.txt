@@ -10,3 +10,9 @@ Ako začať s datasetom:
 
 www.python.vse.cz
 
+Validace:
+confusion matrix - classification
+accuracy - classification
+precision - classification
+ROC curve - vypisat a vykresliť
+MAPE - mean percentage difference between predicted and actual values
