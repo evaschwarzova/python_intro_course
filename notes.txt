@@ -1,0 +1,12 @@
+Ako začať s datasetom:
+1. features
+2. počet riadkov + stlpcov
+3. počet unikátnych hodnot
+4. nan hodnoty
+5. target variable
+6. velikost datasetu - pamat RAM + batche
+7. minimalna velkost datasetu
+8. sampling
+
+www.python.vse.cz
+
